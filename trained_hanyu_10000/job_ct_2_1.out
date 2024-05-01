@@ -1,0 +1,239 @@
+ 44.124953 seconds (13.63 M allocations: 840.768 MiB, 0.52% gc time, 16.00% compilation time)
+ 37.491929 seconds (1 allocation: 32 bytes)
+ 33.789650 seconds (1 allocation: 32 bytes)
+ 40.133112 seconds (1 allocation: 32 bytes)
+ 41.063660 seconds (15 allocations: 480 bytes)
+ 32.312007 seconds (1 allocation: 32 bytes)
+ 27.066005 seconds (1 allocation: 32 bytes)
+ 25.794748 seconds (1 allocation: 32 bytes)
+ 24.463213 seconds (1 allocation: 32 bytes)
+ 23.596979 seconds (1 allocation: 32 bytes)
+ 21.572301 seconds (1 allocation: 32 bytes)
+ 21.053590 seconds (1 allocation: 32 bytes)
+ 20.144457 seconds (1 allocation: 32 bytes)
+ 20.576779 seconds (1 allocation: 32 bytes)
+ 21.057308 seconds (1 allocation: 32 bytes)
+ 21.025018 seconds (1 allocation: 32 bytes)
+ 23.192385 seconds (1 allocation: 32 bytes)
+ 31.341459 seconds (1 allocation: 32 bytes)
+ 24.757893 seconds (1 allocation: 32 bytes)
+ 24.007532 seconds (1 allocation: 32 bytes)
+ 24.319664 seconds (1 allocation: 32 bytes)
+ 23.225821 seconds (1 allocation: 32 bytes)
+ 24.400555 seconds (1 allocation: 32 bytes)
+ 24.419392 seconds (1 allocation: 32 bytes)
+ 24.077165 seconds (1 allocation: 32 bytes)
+ 25.488815 seconds (1 allocation: 32 bytes)
+ 30.285177 seconds (7 allocations: 224 bytes)
+ 25.379625 seconds (1 allocation: 32 bytes)
+ 25.405061 seconds (1 allocation: 32 bytes)
+ 27.586852 seconds (7 allocations: 224 bytes)
+ 22.783779 seconds (1 allocation: 32 bytes)
+ 23.934509 seconds (1 allocation: 32 bytes)
+ 24.121322 seconds (1 allocation: 32 bytes)
+ 23.762292 seconds (1 allocation: 32 bytes)
+ 23.663982 seconds (1 allocation: 32 bytes)
+ 23.189513 seconds (1 allocation: 32 bytes)
+ 23.018719 seconds (1 allocation: 32 bytes)
+ 23.660729 seconds (1 allocation: 32 bytes)
+ 24.198467 seconds (1 allocation: 32 bytes)
+ 24.281939 seconds (7 allocations: 224 bytes)
+ 23.409181 seconds (7 allocations: 224 bytes)
+ 23.112336 seconds (7 allocations: 224 bytes)
+ 33.584431 seconds (1 allocation: 32 bytes)
+ 36.977685 seconds (1 allocation: 32 bytes)
+ 34.534990 seconds (1 allocation: 32 bytes)
+ 29.703941 seconds (1 allocation: 32 bytes)
+ 24.612470 seconds (1 allocation: 32 bytes)
+ 22.440775 seconds (1 allocation: 32 bytes)
+ 22.382822 seconds (1 allocation: 32 bytes)
+ 29.512028 seconds (1 allocation: 32 bytes)
+ 32.398292 seconds (2 allocations: 64 bytes)
+ 36.357475 seconds (1 allocation: 32 bytes)
+ 40.437961 seconds (1 allocation: 32 bytes)
+ 42.402671 seconds (1 allocation: 32 bytes)
+ 40.137988 seconds (1 allocation: 32 bytes)
+ 41.988227 seconds (1 allocation: 32 bytes)
+ 37.530563 seconds (1 allocation: 32 bytes)
+ 35.538090 seconds (1 allocation: 32 bytes)
+ 36.515476 seconds (1 allocation: 32 bytes)
+ 38.373481 seconds (1 allocation: 32 bytes)
+ 40.605344 seconds (7 allocations: 224 bytes)
+ 36.000223 seconds (6 allocations: 192 bytes)
+ 43.107488 seconds (1 allocation: 32 bytes)
+ 39.294283 seconds (1 allocation: 32 bytes)
+ 39.129975 seconds (1 allocation: 32 bytes)
+ 39.836333 seconds (1 allocation: 32 bytes)
+ 39.835912 seconds (14 allocations: 448 bytes)
+ 42.755646 seconds (1 allocation: 32 bytes)
+ 43.634137 seconds (1 allocation: 32 bytes)
+ 42.912376 seconds (1 allocation: 32 bytes)
+ 39.315923 seconds (1 allocation: 32 bytes)
+ 44.847475 seconds (1 allocation: 32 bytes)
+ 45.348725 seconds (5 allocations: 160 bytes)
+ 43.126264 seconds (1 allocation: 32 bytes)
+ 38.499817 seconds (1 allocation: 32 bytes)
+ 38.219183 seconds (4 allocations: 128 bytes)
+ 38.056679 seconds (1 allocation: 32 bytes)
+ 37.068102 seconds (1 allocation: 32 bytes)
+ 35.244001 seconds (5 allocations: 160 bytes)
+ 36.316744 seconds (1 allocation: 32 bytes)
+ 37.384621 seconds (7 allocations: 224 bytes)
+ 41.558372 seconds (10 allocations: 320 bytes)
+ 37.556638 seconds (1 allocation: 32 bytes)
+ 36.552655 seconds (1 allocation: 32 bytes)
+ 36.442555 seconds (1 allocation: 32 bytes)
+ 38.426016 seconds (1 allocation: 32 bytes)
+ 36.674412 seconds (1 allocation: 32 bytes)
+ 36.018656 seconds (1 allocation: 32 bytes)
+ 36.438494 seconds (1 allocation: 32 bytes)
+ 37.889383 seconds (1 allocation: 32 bytes)
+ 45.901640 seconds (1 allocation: 32 bytes)
+ 45.650273 seconds (1 allocation: 32 bytes)
+ 43.594786 seconds (1 allocation: 32 bytes)
+ 40.529472 seconds (7 allocations: 224 bytes)
+ 43.724571 seconds (1 allocation: 32 bytes)
+ 41.588416 seconds (1 allocation: 32 bytes)
+ 40.058094 seconds (5 allocations: 160 bytes)
+ 40.333781 seconds (1 allocation: 32 bytes)
+ 34.487381 seconds (1 allocation: 32 bytes)
+ 36.970353 seconds (1 allocation: 32 bytes)
+ 38.423709 seconds (1 allocation: 32 bytes)
+ 37.683000 seconds (1 allocation: 32 bytes)
+ 36.525923 seconds (1 allocation: 32 bytes)
+ 36.671889 seconds (1 allocation: 32 bytes)
+ 36.662764 seconds (30 allocations: 960 bytes)
+ 44.503581 seconds (16 allocations: 512 bytes)
+ 47.295307 seconds (1 allocation: 32 bytes)
+ 39.774814 seconds (1 allocation: 32 bytes)
+ 35.423659 seconds (1 allocation: 32 bytes)
+ 35.515097 seconds (1 allocation: 32 bytes)
+ 37.208959 seconds (1 allocation: 32 bytes)
+ 37.314595 seconds (5 allocations: 160 bytes)
+ 36.682651 seconds (9 allocations: 288 bytes)
+ 37.552358 seconds (1 allocation: 32 bytes)
+ 38.538981 seconds (1 allocation: 32 bytes)
+ 37.989298 seconds (1 allocation: 32 bytes)
+ 32.832467 seconds (1 allocation: 32 bytes)
+ 30.382865 seconds (1 allocation: 32 bytes)
+ 29.524311 seconds (1 allocation: 32 bytes)
+ 29.875491 seconds (1 allocation: 32 bytes)
+ 34.263160 seconds (25 allocations: 800 bytes)
+ 42.138106 seconds (1 allocation: 32 bytes)
+ 36.799877 seconds (1 allocation: 32 bytes)
+ 33.483663 seconds (1 allocation: 32 bytes)
+ 31.855071 seconds (1 allocation: 32 bytes)
+ 39.897267 seconds (1 allocation: 32 bytes)
+ 37.926455 seconds (1 allocation: 32 bytes)
+ 35.916639 seconds (7 allocations: 224 bytes)
+ 37.212494 seconds (1 allocation: 32 bytes)
+ 35.408268 seconds (1 allocation: 32 bytes)
+ 32.807635 seconds (1 allocation: 32 bytes)
+ 33.166291 seconds (1 allocation: 32 bytes)
+ 36.209826 seconds (1 allocation: 32 bytes)
+ 33.213497 seconds (1 allocation: 32 bytes)
+ 28.581993 seconds (1 allocation: 32 bytes)
+ 25.211529 seconds (1 allocation: 32 bytes)
+ 29.360886 seconds (1 allocation: 32 bytes)
+ 31.987608 seconds (1 allocation: 32 bytes)
+ 39.489050 seconds (1 allocation: 32 bytes)
+ 49.212417 seconds (1 allocation: 32 bytes)
+ 52.193495 seconds (1 allocation: 32 bytes)
+ 43.358441 seconds (1 allocation: 32 bytes)
+ 43.619852 seconds (1 allocation: 32 bytes)
+ 42.578329 seconds (1 allocation: 32 bytes)
+ 43.156713 seconds (8 allocations: 256 bytes)
+ 49.932345 seconds (6 allocations: 192 bytes)
+ 46.900360 seconds (1 allocation: 32 bytes)
+ 48.172342 seconds (1 allocation: 32 bytes)
+ 47.858185 seconds (1 allocation: 32 bytes)
+ 45.363034 seconds (1 allocation: 32 bytes)
+ 43.656274 seconds (7 allocations: 224 bytes)
+ 41.722523 seconds (1 allocation: 32 bytes)
+ 40.381613 seconds (5 allocations: 160 bytes)
+ 41.518873 seconds (1 allocation: 32 bytes)
+ 42.563072 seconds (1 allocation: 32 bytes)
+ 40.154340 seconds (1 allocation: 32 bytes)
+ 34.312348 seconds (1 allocation: 32 bytes)
+ 34.131124 seconds (1 allocation: 32 bytes)
+ 35.185109 seconds (1 allocation: 32 bytes)
+ 35.447184 seconds (1 allocation: 32 bytes)
+ 34.883585 seconds (1 allocation: 32 bytes)
+ 35.455988 seconds (1 allocation: 32 bytes)
+ 35.095418 seconds (1 allocation: 32 bytes)
+ 35.741598 seconds (1 allocation: 32 bytes)
+ 35.805797 seconds (1 allocation: 32 bytes)
+ 34.698778 seconds (1 allocation: 32 bytes)
+ 31.923999 seconds (1 allocation: 32 bytes)
+ 28.086247 seconds (1 allocation: 32 bytes)
+ 32.725500 seconds (1 allocation: 32 bytes)
+ 24.205420 seconds (1 allocation: 32 bytes)
+ 21.294861 seconds (1 allocation: 32 bytes)
+ 22.616494 seconds (1 allocation: 32 bytes)
+ 23.360467 seconds (1 allocation: 32 bytes)
+ 23.846757 seconds (1 allocation: 32 bytes)
+ 25.450274 seconds (1 allocation: 32 bytes)
+ 24.070346 seconds (1 allocation: 32 bytes)
+ 23.518539 seconds (1 allocation: 32 bytes)
+ 22.550346 seconds (1 allocation: 32 bytes)
+ 22.772856 seconds (1 allocation: 32 bytes)
+ 21.418655 seconds (1 allocation: 32 bytes)
+ 65.369441 seconds
+ 61.974018 seconds
+ 60.277391 seconds
+ 58.989404 seconds
+ 57.557056 seconds
+ 60.490403 seconds
+ 62.408775 seconds
+ 62.867974 seconds
+ 66.144823 seconds
+ 60.551565 seconds
+ 68.465262 seconds
+ 71.989080 seconds
+ 59.707803 seconds
+ 61.296403 seconds
+ 66.956254 seconds
+ 69.794220 seconds
+ 68.998929 seconds
+ 70.023202 seconds
+ 73.131068 seconds
+ 70.979530 seconds
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@e4farm02.ge.infn.it>
+Subject: Job 713016: </farmdisk1/mbonici/trained_hanyu_10000/job_ct_2_1.sh> in cluster <infnge> Done
+
+Job </farmdisk1/mbonici/trained_hanyu_10000/job_ct_2_1.sh> was submitted from host <farmuisl7.ge.infn.it> by user <mbonici> in cluster <infnge>.
+Job was executed on host(s) <8*e4farm02.ge.infn.it>, in queue <medium>, as user <mbonici> in cluster <infnge>.
+</home/mbonici> was used as the home directory.
+</home/mbonici/Effort_trainer> was used as the working directory.
+Started at Sun Mar 10 05:39:31 2024
+Results reported on Sun Mar 10 07:52:16 2024
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+/farmdisk1/mbonici/trained_hanyu_10000/job_ct_2_1.sh
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   59505.55 sec.
+    Max Memory :                                 802 MB
+    Average Memory :                             771.38 MB
+    Total Requested Memory :                     4096.00 MB
+    Delta Memory :                               3294.00 MB
+    Max Processes :                              4
+    Max Threads :                                60
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file </farmdisk1/mbonici/trained_hanyu_10000/job_ct_2_1.err> for stderr output of this job.
+

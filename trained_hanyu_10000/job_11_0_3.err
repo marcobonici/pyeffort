@@ -1,0 +1,857 @@
+[ Info: Checking the chosen multipole ⏳
+[ Info: Check passed ✅
+[ Info: Checking the chosen component of the Power Spectrum ⏳
+[ Info: Check passed ✅
+[ Info: Loading input dataframe ⏳
+[ Info: Loaded input dataframe ✅
+[ Info: Performing preprocessing of data ⏳
+[ Info: Preprocessing completed ✅
+[ Info: Initializing training ⏳
+[ Info: First training round
+┌ Info: Initial Loss: 
+└   string(initial_test_loss) = "21966.918278173744"
+┌ Info: η is equal to:
+└   string(η) = "0.0001"
+┌ Info: Loss:
+│   train = 2.555603846844629
+└   test = 0.7209435436735463
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.7209435436735463
+┌ Info: Loss:
+│   train = 1.4316528989221537
+└   test = 0.39477229290429583
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.39477229290429583
+┌ Info: Loss:
+│   train = 0.6640423907286228
+└   test = 0.20399219966349616
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.20399219966349616
+┌ Info: Loss:
+│   train = 0.4405835603109546
+└   test = 0.1407610809884256
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.1407610809884256
+┌ Info: Loss:
+│   train = 0.48675113731257225
+└   test = 0.1508967975690299
+┌ Info: Loss:
+│   train = 0.5395309104728883
+└   test = 0.16689608313015591
+┌ Info: Loss:
+│   train = 0.2643062475759782
+└   test = 0.09253672202317738
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.09253672202317738
+┌ Info: Loss:
+│   train = 0.2663492209282535
+└   test = 0.08927230710518191
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.08927230710518191
+┌ Info: Loss:
+│   train = 0.27605057112104114
+└   test = 0.08746851254949424
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.08746851254949424
+┌ Info: Loss:
+│   train = 0.377875256784715
+└   test = 0.11747321537699487
+┌ Info: Loss:
+│   train = 0.45893683603761326
+└   test = 0.1418097465408429
+┌ Info: Loss:
+│   train = 0.2874367330711457
+└   test = 0.08803441485126065
+┌ Info: Loss:
+│   train = 0.23475780144116698
+└   test = 0.08095887935562582
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.08095887935562582
+┌ Info: Loss:
+│   train = 0.16937300877360725
+└   test = 0.060624808885793226
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.060624808885793226
+┌ Info: Loss:
+│   train = 0.13311089476291688
+└   test = 0.05282501478329804
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.05282501478329804
+┌ Info: Loss:
+│   train = 0.12097529893382175
+└   test = 0.050375952031117284
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.050375952031117284
+┌ Info: Loss:
+│   train = 0.10742365241041898
+└   test = 0.04802943378730391
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.04802943378730391
+┌ Info: Loss:
+│   train = 0.08970700434456047
+└   test = 0.042400255258415696
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.042400255258415696
+┌ Info: Loss:
+│   train = 0.12112087895908144
+└   test = 0.04894433001582239
+┌ Info: Loss:
+│   train = 0.14650972627836695
+└   test = 0.058385933015806565
+┌ Info: η is equal to:
+└   string(η) = "7.0e-5"
+┌ Info: Loss:
+│   train = 0.09922589491513195
+└   test = 0.038756637003001186
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.038756637003001186
+┌ Info: Loss:
+│   train = 0.14091299039573255
+└   test = 0.049056152681089996
+┌ Info: Loss:
+│   train = 0.07404847114107276
+└   test = 0.03107154724446079
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.03107154724446079
+┌ Info: Loss:
+│   train = 0.09284638842498316
+└   test = 0.035305979088711345
+┌ Info: Loss:
+│   train = 0.08379321181475441
+└   test = 0.0338995367388716
+┌ Info: Loss:
+│   train = 0.14460900656425152
+└   test = 0.05054340817874858
+┌ Info: Loss:
+│   train = 0.0580170655871281
+└   test = 0.027458164723815418
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.027458164723815418
+┌ Info: Loss:
+│   train = 0.13810893633629995
+└   test = 0.04733350642647703
+┌ Info: Loss:
+│   train = 0.13066672494940262
+└   test = 0.046444983163809905
+┌ Info: Loss:
+│   train = 0.04928215977635943
+└   test = 0.025543425274507814
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.025543425274507814
+┌ Info: Loss:
+│   train = 0.13017173296785703
+└   test = 0.04605824758220711
+┌ Info: Loss:
+│   train = 0.05656272269050036
+└   test = 0.027116230995901516
+┌ Info: Loss:
+│   train = 0.07363167854826527
+└   test = 0.03111716292512788
+┌ Info: Loss:
+│   train = 0.056682423041854
+└   test = 0.026909850420455524
+┌ Info: Loss:
+│   train = 0.09928496126363248
+└   test = 0.03817061536273503
+┌ Info: Loss:
+│   train = 0.04287973888818979
+└   test = 0.023401338322068227
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.023401338322068227
+┌ Info: Loss:
+│   train = 0.050145233755529234
+└   test = 0.024896780617335645
+┌ Info: Loss:
+│   train = 0.04280848448256322
+└   test = 0.023776418239130633
+┌ Info: Loss:
+│   train = 0.03665587451850098
+└   test = 0.02184390822960481
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.02184390822960481
+┌ Info: Loss:
+│   train = 0.2809750676825899
+└   test = 0.07971584062521869
+┌ Info: η is equal to:
+└   string(η) = "5.0e-5"
+┌ Info: Loss:
+│   train = 0.041597067265843064
+└   test = 0.019688868615497075
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.019688868615497075
+┌ Info: Loss:
+│   train = 0.035874841639772594
+└   test = 0.017150457315670376
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.017150457315670376
+┌ Info: Loss:
+│   train = 0.039999909331564686
+└   test = 0.01841304292114631
+┌ Info: Loss:
+│   train = 0.03915921187826571
+└   test = 0.017916271706834175
+┌ Info: Loss:
+│   train = 0.05056121062287111
+└   test = 0.020795871802395526
+┌ Info: Loss:
+│   train = 0.026751389664380922
+└   test = 0.014394145932390702
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.014394145932390702
+┌ Info: Loss:
+│   train = 0.024523712788505105
+└   test = 0.013751970871909889
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.013751970871909889
+┌ Info: Loss:
+│   train = 0.031140258392205713
+└   test = 0.015230510419314723
+┌ Info: Loss:
+│   train = 0.0315364774567273
+└   test = 0.015481746726524064
+┌ Info: Loss:
+│   train = 0.04289248826050865
+└   test = 0.01848618033015876
+┌ Info: Loss:
+│   train = 0.030716746091890717
+└   test = 0.015223502446255352
+┌ Info: Loss:
+│   train = 0.022222722894214057
+└   test = 0.012783765146284801
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.012783765146284801
+┌ Info: Loss:
+│   train = 0.025241455859744376
+└   test = 0.013857712033035345
+┌ Info: Loss:
+│   train = 0.023434787105115776
+└   test = 0.012913523107172767
+┌ Info: Loss:
+│   train = 0.07758948901669158
+└   test = 0.025980399439770246
+┌ Info: Loss:
+│   train = 0.037345482829967774
+└   test = 0.016963165463316214
+┌ Info: Loss:
+│   train = 0.03115611599703827
+└   test = 0.015282257988036289
+┌ Info: Loss:
+│   train = 0.034758630426372505
+└   test = 0.017336862899658505
+┌ Info: Loss:
+│   train = 0.035538066100193964
+└   test = 0.01653570024273659
+┌ Info: Loss:
+│   train = 0.030728457237276362
+└   test = 0.014734741554510062
+┌ Info: η is equal to:
+└   string(η) = "2.0e-5"
+┌ Info: Loss:
+│   train = 0.020479495581195148
+└   test = 0.010336299212944126
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.010336299212944126
+┌ Info: Loss:
+│   train = 0.019306862317273132
+└   test = 0.009534323502799185
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.009534323502799185
+┌ Info: Loss:
+│   train = 0.020516884904588806
+└   test = 0.009437054718966992
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.009437054718966992
+┌ Info: Loss:
+│   train = 0.02635428362406398
+└   test = 0.010406114260736808
+┌ Info: Loss:
+│   train = 0.015407549268485745
+└   test = 0.007641430516877419
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.007641430516877419
+┌ Info: Loss:
+│   train = 0.0162724398297659
+└   test = 0.007340990196858896
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.007340990196858896
+┌ Info: Loss:
+│   train = 0.017989197696985836
+└   test = 0.007935426050244412
+┌ Info: Loss:
+│   train = 0.019440700341861836
+└   test = 0.007967134938542189
+┌ Info: Loss:
+│   train = 0.015269277244464145
+└   test = 0.006875534765001643
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.006875534765001643
+┌ Info: Loss:
+│   train = 0.018486193164338253
+└   test = 0.007734182714937345
+┌ Info: Loss:
+│   train = 0.019741106727450233
+└   test = 0.00800068248438325
+┌ Info: Loss:
+│   train = 0.013715166073817172
+└   test = 0.006355491828258494
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.006355491828258494
+┌ Info: Loss:
+│   train = 0.013687865280859525
+└   test = 0.006352522796471015
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.006352522796471015
+┌ Info: Loss:
+│   train = 0.012959050569129821
+└   test = 0.0060693732458685
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0060693732458685
+┌ Info: Loss:
+│   train = 0.018568520720206046
+└   test = 0.007262464731128823
+┌ Info: Loss:
+│   train = 0.0248437166895664
+└   test = 0.00882802421500967
+┌ Info: Loss:
+│   train = 0.016533784072163354
+└   test = 0.006738549332654806
+┌ Info: Loss:
+│   train = 0.012470411999676837
+└   test = 0.005715437848781703
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.005715437848781703
+┌ Info: Loss:
+│   train = 0.012391711655113973
+└   test = 0.005678358145491225
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.005678358145491225
+┌ Info: Loss:
+│   train = 0.01259498618510482
+└   test = 0.005595030060191581
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.005595030060191581
+┌ Info: η is equal to:
+└   string(η) = "1.0e-5"
+┌ Info: Loss:
+│   train = 0.012140389239290594
+└   test = 0.0054303144505422115
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0054303144505422115
+┌ Info: Loss:
+│   train = 0.011604204442027817
+└   test = 0.005166870425607982
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.005166870425607982
+┌ Info: Loss:
+│   train = 0.013073729454326012
+└   test = 0.005514383802494522
+┌ Info: Loss:
+│   train = 0.011989248432769141
+└   test = 0.005092115353776764
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.005092115353776764
+┌ Info: Loss:
+│   train = 0.011308094170009112
+└   test = 0.004887963965700166
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.004887963965700166
+┌ Info: Loss:
+│   train = 0.01175597002185869
+└   test = 0.004889517233306956
+┌ Info: Loss:
+│   train = 0.01108940728209908
+└   test = 0.0046786491468593944
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0046786491468593944
+┌ Info: Loss:
+│   train = 0.012485937863960059
+└   test = 0.005046523430925215
+┌ Info: Loss:
+│   train = 0.01108112659079713
+└   test = 0.004668884711854761
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.004668884711854761
+┌ Info: Loss:
+│   train = 0.010754681793593344
+└   test = 0.004490682996361546
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.004490682996361546
+┌ Info: Loss:
+│   train = 0.011512817270413773
+└   test = 0.004711001107141666
+┌ Info: Loss:
+│   train = 0.011459572593345966
+└   test = 0.00469376118691671
+┌ Info: Loss:
+│   train = 0.011145081648141911
+└   test = 0.004541629562408575
+┌ Info: Loss:
+│   train = 0.011862643755663241
+└   test = 0.004555964598732219
+┌ Info: Loss:
+│   train = 0.01124238428088134
+└   test = 0.004496483398395987
+┌ Info: Loss:
+│   train = 0.011786468705131867
+└   test = 0.004562935674872849
+┌ Info: Loss:
+│   train = 0.01309955140977749
+└   test = 0.004834059911244739
+┌ Info: Loss:
+│   train = 0.01187359556802932
+└   test = 0.00459844446068108
+┌ Info: Loss:
+│   train = 0.01067406358046156
+└   test = 0.004243665073703428
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.004243665073703428
+┌ Info: Loss:
+│   train = 0.010032833134627522
+└   test = 0.004069816294889774
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.004069816294889774
+┌ Info: η is equal to:
+└   string(η) = "9.0e-6"
+┌ Info: Loss:
+│   train = 0.010196885483663981
+└   test = 0.004083754463329859
+┌ Info: Loss:
+│   train = 0.012324186960006981
+└   test = 0.004620046492766651
+┌ Info: Loss:
+│   train = 0.0099584651158337
+└   test = 0.0039577914437247995
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0039577914437247995
+┌ Info: Loss:
+│   train = 0.012049569005156514
+└   test = 0.004421969397515761
+┌ Info: Loss:
+│   train = 0.01002060078711847
+└   test = 0.003961586745322179
+┌ Info: Loss:
+│   train = 0.01074720383038948
+└   test = 0.004093705513623459
+┌ Info: Loss:
+│   train = 0.009578797196626751
+└   test = 0.0037740367546197783
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0037740367546197783
+┌ Info: Loss:
+│   train = 0.009873794315139288
+└   test = 0.0039032751490795646
+┌ Info: Loss:
+│   train = 0.01030274772252503
+└   test = 0.003875654377406044
+┌ Info: Loss:
+│   train = 0.009350106051153027
+└   test = 0.0036891795582616647
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0036891795582616647
+┌ Info: Loss:
+│   train = 0.010321461479198116
+└   test = 0.003928270378112393
+┌ Info: Loss:
+│   train = 0.009304714494352245
+└   test = 0.0036574894623376156
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0036574894623376156
+┌ Info: Loss:
+│   train = 0.011511644558446764
+└   test = 0.004260943947398641
+┌ Info: Loss:
+│   train = 0.010088779845301809
+└   test = 0.0038027209925751743
+┌ Info: Loss:
+│   train = 0.00925131095643184
+└   test = 0.0035903507520889826
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0035903507520889826
+┌ Info: Loss:
+│   train = 0.009272069165610903
+└   test = 0.0036161389175958444
+┌ Info: Loss:
+│   train = 0.01034405617530787
+└   test = 0.0038165922974861075
+┌ Info: Loss:
+│   train = 0.009072423149269995
+└   test = 0.0035597470024503006
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0035597470024503006
+┌ Info: Loss:
+│   train = 0.009684095316205574
+└   test = 0.0037391414924813
+┌ Info: Loss:
+│   train = 0.009065074400481673
+└   test = 0.0035820683008503393
+┌ Info: η is equal to:
+└   string(η) = "7.0e-6"
+┌ Info: Loss:
+│   train = 0.009261321858250252
+└   test = 0.003495522071645158
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.003495522071645158
+┌ Info: Loss:
+│   train = 0.009048053885986944
+└   test = 0.0034388129006006738
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0034388129006006738
+┌ Info: Loss:
+│   train = 0.008868920990099016
+└   test = 0.003363041101923106
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.003363041101923106
+┌ Info: Loss:
+│   train = 0.008922723597824244
+└   test = 0.0034391724641943
+┌ Info: Loss:
+│   train = 0.008627086894366696
+└   test = 0.0033075717530103134
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0033075717530103134
+┌ Info: Loss:
+│   train = 0.009693479027157365
+└   test = 0.0035838200512823973
+┌ Info: Loss:
+│   train = 0.008726439523014556
+└   test = 0.0033338593182514376
+┌ Info: Loss:
+│   train = 0.008587660839797102
+└   test = 0.0032924327804086614
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0032924327804086614
+┌ Info: Loss:
+│   train = 0.0084554921533779
+└   test = 0.0032459580522174744
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0032459580522174744
+┌ Info: Loss:
+│   train = 0.008303692641551466
+└   test = 0.0032023279935629975
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0032023279935629975
+┌ Info: Loss:
+│   train = 0.008579851296091321
+└   test = 0.0032908060874812274
+┌ Info: Loss:
+│   train = 0.00913769088116297
+└   test = 0.0033523672040421952
+┌ Info: Loss:
+│   train = 0.008670918254282236
+└   test = 0.0032286023380672813
+┌ Info: Loss:
+│   train = 0.008868743160580624
+└   test = 0.00331321031133437
+┌ Info: Loss:
+│   train = 0.009855117574994693
+└   test = 0.0035131052044988596
+┌ Info: Loss:
+│   train = 0.008865631221833405
+└   test = 0.0032594528496963024
+┌ Info: Loss:
+│   train = 0.008257518023510156
+└   test = 0.003099087660195207
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.003099087660195207
+┌ Info: Loss:
+│   train = 0.008237557422790944
+└   test = 0.0030948261296476942
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0030948261296476942
+┌ Info: Loss:
+│   train = 0.008217425555495633
+└   test = 0.003060715510364297
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.003060715510364297
+┌ Info: Loss:
+│   train = 0.008363135618107117
+└   test = 0.0031437650413229453
+┌ Info: η is equal to:
+└   string(η) = "3.0e-6"
+┌ Info: Loss:
+│   train = 0.007956791192859214
+└   test = 0.0029904600818083664
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0029904600818083664
+┌ Info: Loss:
+│   train = 0.007913367840628436
+└   test = 0.0029675587994492073
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0029675587994492073
+┌ Info: Loss:
+│   train = 0.007805607261833471
+└   test = 0.0029349277640429825
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0029349277640429825
+┌ Info: Loss:
+│   train = 0.007838994263026509
+└   test = 0.0029407876193240402
+┌ Info: Loss:
+│   train = 0.007873582710007609
+└   test = 0.002956564016597463
+┌ Info: Loss:
+│   train = 0.007848821279529291
+└   test = 0.002954374802189587
+┌ Info: Loss:
+│   train = 0.007928149553203208
+└   test = 0.0029245766367377033
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0029245766367377033
+┌ Info: Loss:
+│   train = 0.0077810621221030395
+└   test = 0.0028774570326379114
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0028774570326379114
+┌ Info: Loss:
+│   train = 0.008032913818792849
+└   test = 0.002970957402843929
+┌ Info: Loss:
+│   train = 0.007684419041299025
+└   test = 0.002869056828640586
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.002869056828640586
+┌ Info: Loss:
+│   train = 0.007707174054833887
+└   test = 0.002878893520251333
+┌ Info: Loss:
+│   train = 0.007818937078732293
+└   test = 0.002892387078969859
+┌ Info: Loss:
+│   train = 0.007653833856881122
+└   test = 0.0028169740680910873
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0028169740680910873
+┌ Info: Loss:
+│   train = 0.007803249267020459
+└   test = 0.002847723120187637
+┌ Info: Loss:
+│   train = 0.007627983537584408
+└   test = 0.00283987108444723
+┌ Info: Loss:
+│   train = 0.007732379652164804
+└   test = 0.0028413814335808154
+┌ Info: Loss:
+│   train = 0.007828803855974578
+└   test = 0.0028783504123631814
+┌ Info: Loss:
+│   train = 0.007519187700630558
+└   test = 0.0027718073959864375
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0027718073959864375
+┌ Info: Loss:
+│   train = 0.007519209754107604
+└   test = 0.002798247070578952
+┌ Info: Loss:
+│   train = 0.007709149188257791
+└   test = 0.0028299663839870355
+┌ Info: η is equal to:
+└   string(η) = "1.0e-6"
+┌ Info: Loss:
+│   train = 0.0073747582877366855
+└   test = 0.0027154359589023442
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0027154359589023442
+┌ Info: Loss:
+│   train = 0.007344095820519965
+└   test = 0.0027155431627134312
+┌ Info: Loss:
+│   train = 0.00732039374082054
+└   test = 0.002714039971639129
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.002714039971639129
+┌ Info: Loss:
+│   train = 0.00749028166757973
+└   test = 0.0027429269068586257
+┌ Info: Loss:
+│   train = 0.00733126834956554
+└   test = 0.0027086008905133165
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0027086008905133165
+┌ Info: Loss:
+│   train = 0.007485075777394913
+└   test = 0.0027392694046810763
+┌ Info: Loss:
+│   train = 0.00730461509692513
+└   test = 0.0026894924307265277
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0026894924307265277
+┌ Info: Loss:
+│   train = 0.0073404066351467215
+└   test = 0.0026774974886493476
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0026774974886493476
+┌ Info: Loss:
+│   train = 0.007278005266246034
+└   test = 0.0026736113316228457
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0026736113316228457
+┌ Info: Loss:
+│   train = 0.007336684254041841
+└   test = 0.00268902443289364
+┌ Info: Loss:
+│   train = 0.007298119126421056
+└   test = 0.0026792827749216224
+┌ Info: Loss:
+│   train = 0.007262106138915471
+└   test = 0.0026726527535213306
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0026726527535213306
+┌ Info: Loss:
+│   train = 0.007431235093210933
+└   test = 0.002706674888587825
+┌ Info: Loss:
+│   train = 0.007345912712250779
+└   test = 0.0026757251854354477
+┌ Info: Loss:
+│   train = 0.007223333434419501
+└   test = 0.0026446823746910245
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0026446823746910245
+┌ Info: Loss:
+│   train = 0.00729868829218275
+└   test = 0.0026835031590793524
+┌ Info: Loss:
+│   train = 0.00728921557458399
+└   test = 0.002676514761615463
+┌ Info: Loss:
+│   train = 0.007449608758047944
+└   test = 0.002715958170777231
+┌ Info: Loss:
+│   train = 0.007271907880667556
+└   test = 0.002654172512609269
+┌ Info: Loss:
+│   train = 0.007211319375114586
+└   test = 0.002637120989521864
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.002637120989521864
+[ Info: Second Training round
+┌ Info: η is equal to:
+└   string(7.0e-7) = "7.0e-7"
+┌ Info: Loss:
+│   train = 0.007151535947912845
+└   test = 0.002619811430284209
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.002619811430284209
+┌ Info: η is equal to:
+└   string(7.0e-7) = "7.0e-7"
+┌ Info: Loss:
+│   train = 0.007157761244138982
+└   test = 0.0026105564368341227
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0026105564368341227
+┌ Info: η is equal to:
+└   string(7.0e-7) = "7.0e-7"
+┌ Info: Loss:
+│   train = 0.007141472992442955
+└   test = 0.002597993393843953
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.002597993393843953
+┌ Info: η is equal to:
+└   string(7.0e-7) = "7.0e-7"
+┌ Info: Loss:
+│   train = 0.007134558396779226
+└   test = 0.002608873486060593
+┌ Info: η is equal to:
+└   string(7.0e-7) = "7.0e-7"
+┌ Info: Loss:
+│   train = 0.007239703590380483
+└   test = 0.002606587105178434
+┌ Info: η is equal to:
+└   string(7.0e-7) = "7.0e-7"
+┌ Info: Loss:
+│   train = 0.0070757885473114665
+└   test = 0.002580877367669701
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.002580877367669701
+┌ Info: η is equal to:
+└   string(7.0e-7) = "7.0e-7"
+┌ Info: Loss:
+│   train = 0.007075272262109727
+└   test = 0.002563343862260138
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.002563343862260138
+┌ Info: η is equal to:
+└   string(7.0e-7) = "7.0e-7"
+┌ Info: Loss:
+│   train = 0.007025867756899631
+└   test = 0.002554457586934432
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.002554457586934432
+┌ Info: η is equal to:
+└   string(7.0e-7) = "7.0e-7"
+┌ Info: Loss:
+│   train = 0.007060021682118121
+└   test = 0.0025638470824074938
+┌ Info: η is equal to:
+└   string(7.0e-7) = "7.0e-7"
+┌ Info: Loss:
+│   train = 0.006975003088019567
+└   test = 0.002532176023051457
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.002532176023051457
+┌ Info: η is equal to:
+└   string(7.0e-7) = "7.0e-7"
+┌ Info: Loss:
+│   train = 0.0069996919360924064
+└   test = 0.00252866820950358
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.00252866820950358
+┌ Info: η is equal to:
+└   string(7.0e-7) = "7.0e-7"
+┌ Info: Loss:
+│   train = 0.00695964609663571
+└   test = 0.0025195820198207373
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0025195820198207373
+┌ Info: η is equal to:
+└   string(7.0e-7) = "7.0e-7"
+┌ Info: Loss:
+│   train = 0.006980580645442908
+└   test = 0.002517135520548678
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.002517135520548678
+┌ Info: η is equal to:
+└   string(7.0e-7) = "7.0e-7"
+┌ Info: Loss:
+│   train = 0.0069505975937725496
+└   test = 0.0025088774279329465
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0025088774279329465
+┌ Info: η is equal to:
+└   string(7.0e-7) = "7.0e-7"
+┌ Info: Loss:
+│   train = 0.00693928278387743
+└   test = 0.0025098848049811256
+┌ Info: η is equal to:
+└   string(7.0e-7) = "7.0e-7"
+┌ Info: Loss:
+│   train = 0.006912931456255371
+└   test = 0.0024788307086279745
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0024788307086279745
+┌ Info: η is equal to:
+└   string(7.0e-7) = "7.0e-7"
+┌ Info: Loss:
+│   train = 0.00685938607290942
+└   test = 0.002469700347901631
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.002469700347901631
+┌ Info: η is equal to:
+└   string(7.0e-7) = "7.0e-7"
+┌ Info: Loss:
+│   train = 0.006875452409420639
+└   test = 0.002467562809057947
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.002467562809057947
+┌ Info: η is equal to:
+└   string(7.0e-7) = "7.0e-7"
+┌ Info: Loss:
+│   train = 0.006871982076878655
+└   test = 0.002471053751047763
+┌ Info: η is equal to:
+└   string(7.0e-7) = "7.0e-7"
+┌ Info: Loss:
+│   train = 0.006833579931623328
+└   test = 0.0024541108434404492
+┌ Info: Saving coefficients! Test loss is equal to:
+└   test = 0.0024541108434404492

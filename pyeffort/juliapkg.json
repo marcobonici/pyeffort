@@ -1,0 +1,1 @@
+{"packages": {"SimpleChains": {"uuid": "de6bee2f-e2f4-4ec7-b6ed-219cc6f6e9e5"}, "Static": {"uuid": "aedffcd0-7271-4cad-89d0-dc628f76c6d3"}, "BSON": {"uuid": "fbb218c0-5317-5bc6-957e-2ee96dd4b1f0"}, "Effort": {"uuid": "ace19e24-02c2-4bce-bc41-b57e89c0fc53", "url": "https://github.com/CosmologicalEmulators/Effort.jl#develop", "rev": "develop"}}}

@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "pyeffort"
+version = "0.1.0"
+description = ""
+authors = ["Marco Bonici <bonici.marco@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+juliacall = "^0.9.20"
+juliapkg = "^0.1.11"
+numpy = "^1.26.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
