@@ -14,6 +14,8 @@ identity = jl.seval("SimpleChains.identity")
 effort_compute_Pl = jl.seval('Effort.get_Pℓ')
 #effort_compute_Xil = jl.seval('Effort.get_Xiℓ')
 #effort_compute_Xil = jl.seval('Effort.get_Xiℓ')
+effort_compute_D_z = jl.seval('Effort._D_z')
+effort_compute_D_z_unnorm = jl.seval('Effort._D_z_unnorm')
 effort_compute_f_z = jl.seval('Effort._f_z')
 create_bin_edges = jl.seval('Effort.create_bin_edges')
 get_stoch_terms_binned_efficient = jl.seval('Effort.get_stoch_terms_binned_efficient')
@@ -86,5 +88,12 @@ def compute_Pl(*args):
     Pl = effort_compute_Pl(*my_list)
     return np.array(Pl)
 
-def compute_fz(z, Omm, w0, wa):
-    return effort_compute_f_z(z, Omm, w0, wa)
+def compute_fz(z, Omc, Omb, h, mnu , w0, wa):
+    return effort_compute_f_z(z, Omc, Omb, h, mnu , w0, wa)
+
+
+def compute_Dz(z, Omc, Omb, h, mnu , w0, wa):
+    return effort_compute_D_z(z, Omc, Omb, h, mν = mnu , w0 = w0, wa = wa)
+
+def compute_Dz_unnorm(z, Omc, Omb, h, mnu , w0, wa):
+    return effort_compute_D_z_unnorm(z, Omc, Omb, h, mν = mnu , w0 = w0, wa = wa)
